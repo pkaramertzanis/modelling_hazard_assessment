@@ -1,0 +1,110 @@
+---
+title: "The Role of Machine Learning in Chemical Risk Assessment"
+author: "Marc A.T. Teunis, PhD; Michael Liem, PhD; Panagiotis Karamertzanis, PhD"
+date: "`r Sys.Date()`"
+output:
+  ioslides_presentation:
+    widescreen: true
+---
+
+## _Applications and Grounding Theory_
+
+## Learning aims
+
+After taking this course, participants have
+
+ - A solid understanding of the principles of machine learning
+ - Insight in applications of AI in the process of chemical risk assessment   
+ - Have seen some hands-on examples on how to generate results from machine learning workflows
+ 
+## Day 1 overview 
+
+(9.00 - 17.00)
+
+ - **General introduction** (30 min.)
+ - **Theory 1**; Principles of Machine Learning (100 min.)
+ - ---- LUNCH BREAK ---- (45 min.)
+ - **Lab 1**; Introduction to Jupyter Notebooks (100 min.)
+ - **Theory 2**; Getting deeper into AI (100 min.)
+
+## Day 2 Overview
+
+(9.00 - 13.00)
+
+ - **Recap Day 1** (30 min.)
+ - **Theory 3**; Foundation Models & Their applications 
+ - **Lab 2**; ML and DL in practice - applications in QSAR / READ ACCROSS
+ - **Theory 4**; Getting started / Moving on
+
+## Detailed Course Contents
+
+## Day 1 - Introduction
+
+(30 min)
+- introductions of the people, aim of the course, materials, getting started
+
+## Day 1 - **Theory 1; Principles of Machine Learning**
+
+(100 min)
+
+ - Principles of Machine Learning
+ - What is AI, and which flavours? History of AI
+ - Architecture - algorithm? Regression based vs neural network
+ - What is a neural network, building blocks
+ - Embedding; from data to numbers, examples, tensors, vectors
+ - Features, feature space (materials from AIRA course)
+ - Validation, cross-validation, leave-one-out, metrics of performance
+ - Which models are used?
+
+## Day 1 - **Primer 1; Introduction to Jupyter Notebooks**
+
+(100 min)
+
+   - Running a notebook in Jupyter and running an ML model
+   - First encouter: Random Forest model for QSAR
+   - ...
+
+## Day 1 - **Theory 2; Getting deeper into AI**
+
+(100 min)
+
+ - History of ML in toxicology
+ - Required statistical knowledge (distributions, sampling)
+ - Regression
+ - Tree-based models
+ - Neural networks
+ - Evaluating your model (eval metrics, accuracy, F-score, sensitivity, selectivity, ROC-curve, AUC)
+ - Tuning parameters
+
+## Day 1 - Closure / Evaluation 
+ 
+(30 min.)
+
+## Day 2 - **Theory 3; Foundation Models & Their applications**
+
+ - Recap Day 1
+ - Generative AI & Foundation models 
+ - Generative AI in toxicology
+ - Ai for in vitro models (optimization of culture conditions), etc.
+ - Agentic AI; emergence and applications - ToxPilot
+
+## Day 2 - **Lab 2; ML and DL in practice - applications in QSAR / READ ACCROSS**
+
+ - Principles of QSAR / Read ACCROSS
+ - ML models (tree based vs. neural networks)
+ - Embedding of chemicals (Morgan FP vs alternative embeddings (ChemBERT / Graph Convolutions)
+ - Generative models for structures (VAE)
+
+## Day 2 - **Prequisites for the Participants**
+
+ - Are people allowed to create a login for this environment: [Posit Cloud](https://posit.cloud/content/yours?sort=name_asc)
+ - Everybody needs to bring a laptop, with working WiFi connection
+ - We need enough power-sockets to power all the laptops
+ - A large screen in the room is handy, especially for the hands-ons
+ - Enough coffee, tea and chocolate to power the brains ;-)
+ - Find a good resource for the participants to use/go to after the course.
+
+## Day 2 - Closure / Evaluation  
+
+(30 min.)
+
