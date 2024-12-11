@@ -1,6 +1,6 @@
 ---
 title: "The Role of Machine Learning in Chemical Risk Assessment"
-author: "Marc A.T. Teunis, PhD; Michael Liem, PhD; Panagiotis Karamertzanis, PhD"
+author: "Marc A.T. Teunis, PhD; Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhD"
 date: "`r Sys.Date()`"
 output:
   ioslides_presentation:
@@ -23,8 +23,8 @@ After taking this course, participants have
 
  - **General introduction** (30 min.)
  - **Theory 1**; Principles of Machine Learning (100 min.)
- - **Lab 0**; Getting to know Jupyter Notebooks 
- - ---- LUNCH BREAK ---- (45 min.)
+ - **Lab 0**; Getting to know Jupyter Notebooks and Google Colab
+ - ---- LUNCH BREAK ---- (60 min.)
  - **Lab 1**; Introduction to Modelling (100 min.)
  intermingled with **Theory 2**; Concepts in Applied Modelling (100 min.)
 
@@ -64,10 +64,11 @@ Key Learning Concepts:
 
 ## Day 1 - **Lab 0; Introduction to Jupyter Notebooks**
 
-(100 min)
+(100 min) <- I would think this is a bit much for the introduction. Perhaps 30 min.
  
  - Running a notebook in Jupyter and running an ML model
- - First encouter: some exploratory data analysis and graphs 
+ - First encouter: some exploratory data analysis and graphs
+ - Simple matrix multiplication using CPUs and GPUs. Simple gradient calculations using CPUs and GPUs. Compare time of execution.
  - ...
 
 ## Day 1 - **Lab 1**; Introduction to Modelling 
@@ -238,7 +239,7 @@ Key Learning Concepts:
 
 ### **Prequisites for the Participants**
 
- - Are people allowed to create a login for this environment: [Posit Cloud](https://posit.cloud/content/yours?sort=name_asc)
+ - Access to Google Colab
  - Everybody needs to bring a laptop, with working WiFi connection
  - We need enough power-sockets to power all the laptops
  - A large screen in the room is handy, especially for the hands-ons
