@@ -21,23 +21,31 @@ After taking this course, participants have
 
 (9.00 - 17.00)
 
- - **General introduction** (30 min.)
- - **Theory 1**; Principles of Machine Learning (100 min.)
- - **Lab 0**; Getting to know Jupyter Notebooks and Google Colab
- - ---- LUNCH BREAK ---- (60 min.)
- - **Lab 1**; Introduction to Modelling (100 min.)
- intermingled with **Theory 2**; Concepts in Applied Modelling (100 min.)
+ 1. 09:00 - 09:30 **General introduction** (30 min.) [all - Marc]
+ 1. 09:30 - 11:00 **Theory 1**; Principles of Machine Learning (90 min.) [Marc]
+ 1. 11:00 - 11:15 ---- COFFEE ----
+ 1. 11:15 - 11:45 **Lab 1**; Getting to know Jupyter Notebooks and Google Colab (30 min.) [Michael]
+ 1. 11:45 - 12:30 **Lab 2**; Applied Modelling - ECHA use case (45 min.) [Panos + Michael] + Intermingled with **Theory 2**; Concepts in Applied Modelling (45 min) [Panos + Michael]
+ 1. 12:30 - 13:30 ---- LUNCH BREAK ---- (60 min.)
+ 1. 13:30 - 15:00 **Lab 2**; Applied Modelling - ECHA use case (90 min.) + Intermingled with **Theory 2**; Concepts in Applied Modelling (90 min) [Panos + Michael]
+ 1. 15:00 - 15:30 ---- TEA BREAK ---- (30 min.)
+ 1. 15:30 - 17:00 **Theory 3** An introduction to Foundation Models (90 min) [Marc]
 
 ## Day 2 Overview
 
 (9.00 - 13.00)
 
- - **Recap Day 1** (30 min.)
- - **Theory 3**; Foundation Models & Their applications 
- - **Lab 2**; A more realistic Application
- intermingled with **Theory 4** Assessing and optimizing model performance & model validation  
-
+ 1. 09:00 - 09:30 **Recap Day 1** (30 min.)
+ 1. 09:30 - 10:45 **Lab 3**; A more realistic Application (45 min) + intermingled with **Theory 3** Assessing and optimizing model performance & model validation [Panos + Michael]
+ 1. ---- COFFEE ----
+ 1. 10:45 - 12:15 **Lab 3**; A more realistic Application (90 min) + intermingled with **Theory 3** Assessing and optimizing model performance & model validation [Panos + Michael]
+ 1. 12:15 - 13:00 **Theory 4**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
+    
 ------------------------------------------------------------------------------------------
+
+## Side Discussions 
+
+14:00 - 16:00 Round Table Discussion - implementation of more advanced AI developments 
 
 ## Detailed Course Contents
 
@@ -151,6 +159,9 @@ Key Learning Concepts:
    - Detecting overfitting and understanding bias/variance trade-offs.
    - Necessity and role of feature engineering in model performance.
 
+
+
+Foundation models, do not forget xAI (explainable AI). post medium. 
 
 ## Day 1 - Closure / Evaluation 
  
