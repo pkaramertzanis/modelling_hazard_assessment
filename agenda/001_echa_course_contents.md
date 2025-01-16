@@ -36,10 +36,10 @@ After taking this course, participants have
 (9.00 - 13.00)
 
  1. 09:00 - 09:30 **Recap Day 1** (30 min.)
- 1. 09:30 - 10:45 **Lab 3**; A more realistic Application (45 min) + intermingled with **Theory 3** Assessing and optimizing model performance & model validation [Panos + Michael]
+ 1. 09:30 - 10:45 **Lab 3**; A more realistic Application (45 min) + intermingled with **Theory 4** Assessing and optimizing model performance & model validation [Panos + Michael]
  1. ---- COFFEE ----
- 1. 10:45 - 12:15 **Lab 3**; A more realistic Application (90 min) + intermingled with **Theory 3** Assessing and optimizing model performance & model validation [Panos + Michael]
- 1. 12:15 - 13:00 **Theory 4**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
+ 1. 10:45 - 12:15 **Lab 3**; A more realistic Application (90 min) + intermingled with **Theory 4** Assessing and optimizing model performance & model validation [Panos + Michael]
+ 1. 12:15 - 13:00 **Theory 5**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
     
 ------------------------------------------------------------------------------------------
 
