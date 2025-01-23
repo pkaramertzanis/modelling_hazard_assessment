@@ -19,28 +19,30 @@ After taking this course, participants have
  
 ## Day 1 overview 
 
-(9.00 - 17.00)
+(9.30 - 17.00)
 
- 1. 09:00 - 09:30 **General introduction** (30 min.) [all - Marc]
- 1. 09:30 - 11:00 **Theory 1**; Principles of Machine Learning (90 min.) [Marc]
+ 1. 09:30 - 10:00 **General introduction** (30 min.) [all - Marc]
+ 1. 10:00 - 11:00 **Theory 1**; Principles of machine learning (90 min.) [Marc]
  1. 11:00 - 11:15 ---- COFFEE ----
- 1. 11:15 - 11:45 **Lab 1**; Getting to know Jupyter Notebooks and Google Colab (30 min.) [Michael]
- 1. 11:45 - 12:30 **Lab 2**; Applied Modelling - ECHA use case (45 min.) [Panos + Michael] + Intermingled with **Theory 2**; Concepts in Applied Modelling (45 min) [Panos + Michael]
- 1. 12:30 - 13:30 ---- LUNCH BREAK ---- (60 min.)
- 1. 13:30 - 15:00 **Lab 2**; Applied Modelling - ECHA use case (90 min.) + Intermingled with **Theory 2**; Concepts in Applied Modelling (90 min) [Panos + Michael]
- 1. 15:00 - 15:30 ---- TEA BREAK ---- (30 min.)
- 1. 15:30 - 17:00 **Theory 3** An introduction to Foundation Models (90 min) [Marc]
+ 1. 11:15 - 11:45 **Lab 0**; Getting to know Jupyter notebooks and Google Colab (30 min.) [Michael]
+ 1. 11:45 - 12:45 **Lab 1 - part 1**; Applied modelling - ECHA use case (60 min.) [Panos + Michael] + Intermingled with **Theory 2**; Concepts in applied modelling (60 min) [Panos + Michael]
+ 1. 12:45 - 13:30 ---- LUNCH BREAK ---- (45 min.)
+ 1. 13:30 - 15:15 **Lab 1 - part 2**; Data conversion for neural network application (105 min.) + Intermingled with **Theory 3**; Concepts in applied modelling (0 min) [Panos + Michael]
+ 1. 15:00 - 15:15 ---- TEA BREAK ---- (30 min.)
+ 2. 15:15 - 16:00; **Lab 1 - part 3**; Running the models (45 min.) + Intermingled with **Theory 4**  
+ 1. 16:00 - 17:00 **Theory 5** An introduction to foundation models (60 min) [Marc]
 
 ## Day 2 Overview
 
-(9.00 - 13.00)
+(9.30 - 15.00)
 
- 1. 09:00 - 09:30 **Recap Day 1** (30 min.)
- 1. 09:30 - 10:45 **Lab 3**; A more realistic Application (45 min) + intermingled with **Theory 4** Assessing and optimizing model performance & model validation [Panos + Michael]
- 1. ---- COFFEE ----
- 1. 10:45 - 12:15 **Lab 3**; A more realistic Application (90 min) + intermingled with **Theory 4** Assessing and optimizing model performance & model validation [Panos + Michael]
- 1. 12:15 - 13:00 **Theory 5**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
-    
+ 1. 09:30 - 10:30 **Lab 2 - part 1**; A more realistic application (60 min) + intermingled with **Theory 6** Assessing and optimizing model performance & model validation [Panos + Michael]
+ 1. 10:30 - 10:45 ---- COFFEE ----
+ 1. 10:45 - 12:30 **Lab 2 - part 2**; [Panos + Michael]
+ 1. 12:30 - 13:15 ---- LUNCH -----
+ 1. 13:15 - 14:15 10:45 - 12:30 **Lab 2 - part 3**; [Panos + Michael]
+ 1. 14:00 - 14:45 **Theory 8**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
+ 1. 14:45 - 15:00 Wrap-up
 ------------------------------------------------------------------------------------------
 
 ## Side Discussions 
