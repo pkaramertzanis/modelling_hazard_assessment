@@ -6,7 +6,6 @@
 
 ## Dates: 26 & 27 February, 2025
 
-## 
 
 ## Learning aims
 
