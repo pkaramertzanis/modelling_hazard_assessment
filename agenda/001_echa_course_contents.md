@@ -45,7 +45,7 @@ After taking this course, participants have
 
 ----------------------------------------------------------------------------------------------
 
-## Detailed Course Contents
+## Detailed Course Contents (UPDATE TITLES BELOW TO CORRESPOND WITH TITLES ABOVE)
 
 ### Day 1 - Introduction
 
