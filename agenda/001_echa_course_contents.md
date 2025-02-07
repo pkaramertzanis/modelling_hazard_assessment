@@ -155,9 +155,9 @@ learned in Lab 1
 -----------------------------------------------------------------------------
 
 
-## Day 2 - **Lab 2; A more realistic Application**
+### Day 2 - **Lab 2; A more realistic Application**
 
-### Cross-Validation
+#### Cross-Validation
 
  - Implement 5-fold cross-validation with FFNN architecture.
  - Limit epochs to 10 for efficiency, performing one fit per fold.
@@ -168,7 +168,7 @@ Key Learning Concepts
  - Data leakage.
  - Applicability domain and generalisation challenges.
 
-### Hyperparameter Tuning
+#### Hyperparameter Tuning
 
  - Conduct grid search on FFNN architecture with variations in layers and neurons (2x2 grid).
  - Select optimal model based on balanced accuracy.
@@ -178,7 +178,7 @@ Key Learning Concepts
  - Hyperparameter tuning challenges in deep learning.
  - Computation costs and trade-offs.
 
-### Model Application
+#### Model Application
 
  - Use the optimal model to predict non-confidential REACH substances.
  - Vary probability cutoff for overall prediction statistics.
@@ -189,7 +189,7 @@ Key Learning Concepts
  - Using models for spurious data identification.
  - Iterative execution of modelling and data curation.
 
-## Day 2 - **Theory 3; Assessing and optimizing model performance & model validation 
+### Day 2 - **Theory 3; Assessing and optimizing model performance & model validation 
 
 This theroy is intermingled with Lab 2, and is meant as a foundation for the practical applications 
 learned in Lab 2.
@@ -212,18 +212,20 @@ Key Learning Concepts
    - Grid search for optimal model architecture.
    - Challenges of hyperparameter tuning in deep learning due to computational costs.
 
-##### **Model Application and Iterative Improvement**:
+#### **Model Application and Iterative Improvement**:
    
    - Using models to identify spurious experimental data.
    - Modelling and data curation as iterative processes.
 
-## Day 2 - **Theory 3**; The future of AI
+### Day 2 - **Theory 3**; The future of AI
 
  - Generative AI & Foundation models 
  - Generative AI in toxicology
  - Agentic AI; emergence and applications - ToxPilot
 
-## Day 2 - Closure / Evaluation  
+### Day 2 - Closure / Evaluation  
+
+--------------------------------------------------
 
 ## General Remarks 
 
