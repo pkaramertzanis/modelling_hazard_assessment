@@ -25,7 +25,7 @@ After taking this course, participants have
  1. 13:30 - 15:15 **Lab 1 - part 2**; Data conversion for Neural Network applications (60 min.) [Panos + Michael]
  1. 15:00 - 15:15 ---- TEA BREAK ---- (30 min.)
  2. 15:15 - 16:00; **Lab 1 - part 3**; Building the Feed Forward Neural Network (FFNN) (45 min.)
- 1. 16:00 - 17:00 **Lecture 2** An introduction to foundation models (60 min.) [Marc]
+ 1. 16:00 - 17:00 **Lecture 2**; An introduction to foundation models (60 min.) [Marc]
 
 ## 27 February, 2025 - Day 2 Overview
 
