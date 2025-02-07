@@ -41,7 +41,7 @@ After taking this course, participants have
 
 ## Side Discussions 
 
-14:00 - 16:00 Round Table Discussion - implementation of more advanced AI developments in chemical risk assessment 
+15:15 - 16:00 Round Table Discussion - implementation of more advanced AI developments in chemical risk assessment 
 
 ----------------------------------------------------------------------------------------------
 
