@@ -150,7 +150,7 @@ learned in Lab 1
    - Detecting overfitting and understanding bias/variance trade-offs.
    - Necessity and role of feature engineering in model performance.
 
-## Day 1 - **Lecture 2** Foundation models, (_do not forget xAI (explainable AI). post medium._) 
+### Day 1 - **Lecture 2**; Foundation models, (_do not forget xAI (explainable AI). post medium._) 
 
 -----------------------------------------------------------------------------
 
