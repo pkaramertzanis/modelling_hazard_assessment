@@ -1,11 +1,8 @@
 # The Role of Machine Learning in Chemical Risk Assessment; _Applications and Grounding Theory_
 
-## authors
+## **Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhDMarc A.T. Teunis, PhD**
 
-**Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhDMarc A.T. Teunis, PhD**
-
-## Dates: 26 & 27 February, 2025
-
+## 26 & 27 February, 2025
 
 ## Learning aims
 
@@ -41,11 +38,10 @@ After taking this course, participants have
  1. 13:15 - 14:15 **Lab 2 - part 3**; Learning curves and Hyperparameter tuning (60 min) [Panos + Michael]
  1. 14:00 - 14:45 **Theory 9**; Large Language Models & Agents; Future of AI in chemical risk assessment [Marc]
  1. 14:45 - 15:00 Wrap-up
-------------------------------------------------------------------------------------------
 
 ## Side Discussions 
 
-14:00 - 16:00 Round Table Discussion - implementation of more advanced AI developments 
+14:00 - 16:00 Round Table Discussion - implementation of more advanced AI developments in chemical risk assessment 
 
 ## Detailed Course Contents
 
