@@ -1,13 +1,12 @@
----
-title: "The Role of Machine Learning in Chemical Risk Assessment"
-author: "Marc A.T. Teunis, PhD; Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhD"
-date: "`r Sys.Date()`"
-output:
-  ioslides_presentation:
-    widescreen: true
----
+# The Role of Machine Learning in Chemical Risk Assessment; _Applications and Grounding Theory_
 
-## _Applications and Grounding Theory_
+## authors
+
+**Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhDMarc A.T. Teunis, PhD**
+
+## Dates: 26 & 27 February, 2025
+
+## 
 
 ## Learning aims
 
@@ -17,7 +16,7 @@ After taking this course, participants have
  - Insight in applications of AI in the process of chemical risk assessment   
  - Have seen some hands-on examples on how to generate results from machine learning workflows
  
-## Day 1 overview 
+## 26 February, 2025 - Day 1 overview 
 
 (9.30 - 17.00)
 
@@ -32,7 +31,7 @@ After taking this course, participants have
  2. 15:15 - 16:00; **Lab 1 - part 3**; Building the Feed Forward Neural Network (FFNN) (45 min.)
  1. 16:00 - 17:00 **Theory 5** An introduction to foundation models (60 min) [Marc]
 
-## Day 2 Overview
+## 27 February, 2025 - Day 2 Overview
 
 (9.30 - 15.00)
 
