@@ -45,15 +45,11 @@ After taking this course, participants have
 
 ## Detailed Course Contents
 
-## Day 1 - Introduction
-
-(30 min)
+### Day 1 - Introduction
 
 Introductions of the people, aim of the course, materials, getting started
 
-## Day 1 - **Theory 1; Principles of Machine Learning**
-
-(100 min)
+### Day 1 - **Lecture 1; Principles of Machine Learning**
 
 Key Learning Concepts:
 
@@ -66,20 +62,17 @@ Key Learning Concepts:
  - Validation, cross-validation, leave-one-out, metrics of performance
  - Which models are used?
 
-## Day 1 - **Lab 0; Introduction to Jupyter Notebooks**
-
-(100 min) <- I would think this is a bit much for the introduction. Perhaps 30 min.
+### Day 1 - **Lab 0; Introduction to Jupyter Notebooks**
  
  - Running a notebook in Jupyter and running an ML model
  - First encouter: some exploratory data analysis and graphs
  - Simple matrix multiplication using CPUs and GPUs. Simple gradient calculations using CPUs and GPUs. Compare time of execution.
  - ...
 
-## Day 1 - **Lab 1**; Introduction to Modelling 
+### Day 1 - **Lab 1**; Introduction to Modelling 
 
-(100 min)
 
-### Data Loading and Exploration
+#### Data Loading and Exploration
 
 Load the dataset: 
 With structures and genotoxicity calls for Ames TA 98/100 with and without metabolic activation (four columns: positive, negative, equivocal). Acknowledge dataset preparation by ECHA, though preparation steps are not shown.
@@ -98,7 +91,7 @@ Key Learning Concepts:
  - Balanced vs. imbalanced datasets and balancing techniques.
  - Intuition and consistency checks for dataset validity.
 
-### Descriptor Calculation
+#### Descriptor Calculation
 
   - Use Morgan count and binary fingerprints, experimenting with length and radius.
   - Visualise example bits and molecules per toxprint.
@@ -109,7 +102,7 @@ Key Learning Concepts
  - Different descriptors and fingerprints.
  - Assigning meaning to descriptors and their relation to endpoints.
 
-### Model Fitting
+#### Model Fitting
 
   - Fit three models: Random Forest, XGBoost, and FFNN, using Morgan fingerprints.
   - Visualise performance metrics: balanced accuracy, F1 score, and AUC.
@@ -121,53 +114,46 @@ Key Learning Concepts
  - Prediction performance metrics.
  - Importance of feature engineering, especially for deep learning.
 
-### Dataset Splitting
+#### Dataset Splitting
 
  - Train/test split and comparison of performance metrics.
  - Discussion of bias, variance, and overfitting detection.
 
-## Day 1 - **Theory 2**; Concepts in Applied Modelling 
+### Day 1 - **Theory 2**; Concepts in Applied Modelling 
 
 (100 min.)
 
 This theroy is intermingled with Lab 1, and is meant as a foundation for the practical applications 
 learned in Lab 1
 
-Key Learning Concepts:
+#### Classification Concepts**:
 
-1. **Classification Concepts**:
    - Binary, multiclass, and multilabel classification.
    - Multitask modelling.
 
-2. **Data Preparation and Validation**:
+##### **Data Preparation and Validation**:
+
    - Importance of structure preparation.
    - Issues with substance identity ambiguities.
    - Balanced vs. imbalanced datasets and balancing techniques.
    - Checking dataset consistency with intuition.
 
-3. **Descriptors and Fingerprints**:
+#### **Descriptors and Fingerprints**:
+
    - Types of descriptors (e.g., Morgan fingerprints, toxprints).
    - Assigning meaning to descriptors and their relation to modelled endpoints.
 
-4. **Model Training and Evaluation**:
+#### **Model Training and Evaluation**:
+
    - Introduction to classification models: Random Forest, XGBoost, FFNN.
    - Metrics for prediction performance: balanced accuracy, F1 score, AUC.
    - Detecting overfitting and understanding bias/variance trade-offs.
    - Necessity and role of feature engineering in model performance.
 
-
-
-Foundation models, do not forget xAI (explainable AI). post medium. 
-
-## Day 1 - Closure / Evaluation 
- 
-(30 min.)
+## Day 1 - **Lecture 2** Foundation models, (_do not forget xAI (explainable AI). post medium._) 
 
 -----------------------------------------------------------------------------
 
-## Day 2 - **Recap Day 1**
-
-(30 min.)
 
 ## Day 2 - **Lab 2; A more realistic Application**
 
@@ -205,42 +191,39 @@ Key Learning Concepts
 
 ## Day 2 - **Theory 3; Assessing and optimizing model performance & model validation 
 
-(100 min.)
-
 This theroy is intermingled with Lab 2, and is meant as a foundation for the practical applications 
 learned in Lab 2.
 
-Key Learning Concepts:
+Key Learning Concepts
 
-1. **Cross-Validation**:
+#### **Cross-Validation**:
+   
    - Importance of cross-validation and nested cross-validation.
    - Risks of data leakage.
    - Generalisation challenges and applicability domain.
 
-2. **Model Generalisation**:
+#### **Model Generalisation**:
+
    - Low validation error does not guarantee good generalisation.
    - Training/validation sets may lack diverse chemistries needed for future predictions.
 
-3. **Hyperparameter Tuning**:
+#### **Hyperparameter Tuning**:
+   
    - Grid search for optimal model architecture.
    - Challenges of hyperparameter tuning in deep learning due to computational costs.
 
-4. **Model Application and Iterative Improvement**:
+##### **Model Application and Iterative Improvement**:
+   
    - Using models to identify spurious experimental data.
    - Modelling and data curation as iterative processes.
 
-## Day 2 - **Theory 4**; Foundation Models & Their applications
-
-(100 min.)
+## Day 2 - **Theory 3**; The future of AI
 
  - Generative AI & Foundation models 
  - Generative AI in toxicology
- - Ai for in vitro models (optimization of culture conditions), etc.
  - Agentic AI; emergence and applications - ToxPilot
 
 ## Day 2 - Closure / Evaluation  
-
-(30 min.)
 
 ## General Remarks 
 
