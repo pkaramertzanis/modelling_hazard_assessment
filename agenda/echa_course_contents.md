@@ -39,9 +39,3 @@ After taking this course, participants have
  1. 14:00 - 14:45 **Lecture 3**; Future of AI in chemical risk assessment (45 min.) [Marc]
  1. 14:45 - 15:00 Wrap-up
 
-## Side Discussions 
-
-15:15 - 16:00 Round Table Discussion - implementation of more advanced AI developments in chemical risk assessment 
-
-
-
