@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 .DS_Store
+datasets/*
+notebooks/**/*xlsx
+uv.lock
+requirements.pinned.txt
+main.py
