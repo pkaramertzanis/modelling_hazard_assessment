@@ -2,7 +2,7 @@
 
 ## **Michael Liem, PhD; Panagiotis (Panos) Karamertzanis, PhD; Coert van Gemeren, PhD; Marc A.T. Teunis, PhD**
 
-## 22 & 23 May, 2025
+## 21 & 22 May, 2025
 
 ## Learning aims
 
@@ -12,7 +12,7 @@ After taking this course, participants have
 - Insight in applications of AI in the process of chemical risk assessment
 - Have seen some hands-on examples on how to generate results from machine learning workflows
 
-## 22 May, 2025 - Day 1 overview
+## 21 May, 2025 - Day 1 overview
 
 (9.30 - 17.00)
 
@@ -25,9 +25,9 @@ After taking this course, participants have
 1.  13:30 - 15:00 **Lab 1 - part 2**; Data conversion for Neural Network applications (60 min.) [Panos + Michael]
 1.  15:00 - 15:15 ---- TEA BREAK ---- (30 min.)
 1.  15:15 - 16:00; **Lab 1 - part 3**; Building the Feed Forward Neural Network (FFNN) (45 min.)
-1.  16:00 - 17:00 **Lecture 2**; An introduction to foundation models (60 min.) [Coert]
+1.  16:00 - 17:00 **Lecture 2**; Deep Learning (60 min.) [Coert]
 
-## 23 May, 2025 - Day 2 Overview
+## 22 May, 2025 - Day 2 Overview
 
 (9.30 - 15.00)
 
@@ -36,5 +36,5 @@ After taking this course, participants have
 1.  10:45 - 12:30 **Lab 2 - part 2**; Defining our model and evaluate prediction with K-fold cross validation (105 min.) [Panos + Michael]
 1.  12:30 - 13:15 ---- LUNCH -----
 1.  13:15 - 14:00 **Lab 2 - part 3**; Learning curves and Hyperparameter tuning (60 min.) [Panos + Michael]
-1.  14:00 - 14:45 **Lecture 3**; Future of AI in chemical risk assessment (45 min.) [Coert]
+1.  14:00 - 14:45 **Lecture 3**; Foundation models & the future of AI (45 min.) [Coert]
 1.  14:45 - 15:00 Wrap-up
